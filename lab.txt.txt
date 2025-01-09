@@ -3,4 +3,4 @@
 
 Develop branch added.
 
-Joaquin added featre 2.
+Joaquin added feature 2.
